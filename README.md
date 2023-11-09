@@ -9,7 +9,9 @@
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=ps" />
   <img src="https://skillicons.dev/icons?i=vscode,github" />
+  
 </div>
   
   ## Social
@@ -22,4 +24,9 @@
 </div>
 
 ![Snake animation](https://github.com/HeynzW/HeynzW/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
