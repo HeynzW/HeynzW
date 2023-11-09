@@ -3,11 +3,8 @@ name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
-  schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
-
-# Permite executar na na lista de Actions (utilizado para testes de build).
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 # Regras
@@ -17,7 +14,11 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
