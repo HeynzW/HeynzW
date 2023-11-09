@@ -4,11 +4,11 @@
   <br>
 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynzW&rank_icon=github&title_color=F72CEAFF&text_color=000000&border_color=00F0FF&bg_color=20,7CF7FF,FF6AA9&locale=pt-br)
+![Heynz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynzW&rank_icon=github&title_color=F72CEAFF&text_color=000000&border_color=00F0FF&bg_color=20,7CF7FF,FF6AA9&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynzW&hide_progress=truecompact&title_color=F72CEAFF&text_color=000000&layout=donut&border_color=00F0FF&bg_color=30,FF6AA9,7CF7FF&locale=pt-br)
 
 
-![](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+Framework)|![](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=Ferramentas▫️▫️)
+![](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+Framework)![](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=Ferramentas▫️▫️)
 
 <br>
 
