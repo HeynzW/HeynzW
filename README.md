@@ -7,7 +7,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynzW&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynzW&hide_progress=truecompact&theme=radical)
 
-<h2 align="center" >♖ Linguagens-Frameworks-Ferramentas ♖</h2>
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+▫️▫️Framework▫️▫️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Ferramentas▫️▫️" />
+   
+</h1>
+<br>
+
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -17,8 +23,8 @@
 </div>
 
 
-<h1 align="conter">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Social" />
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Social▫️▫️" />
 </h1>
 <br>
  
@@ -28,7 +34,6 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
 
 <br>
 <h1 align="center">
