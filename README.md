@@ -15,8 +15,12 @@
   <img src="https://skillicons.dev/icons?i=vscode,github" />
   
 </div>
-  
-  ## ✧ Social
+
+
+<h1 align="conter">
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Social" />
+</h1>
+<br>
  
 <div align="center" > 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,5 +32,5 @@
 
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F711BB&width=500&height=70&duration=4000&lines=obrigada+pela+atenção!!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&random=false&width=434&lines=Obrigada+pela+aten%C3%A7%C3%A3o+!!;" />
 </h1>
