@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynzW&hide_progress=truecompact&title_color=F72CEAFF&text_color=000000&layout=donut&border_color=00F0FF&bg_color=30,FF6AA9,7CF7FF&locale=pt-br)
 
 <h1 align+"center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+Framework" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️Linguagem+Framework" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=Ferramentas▫️▫️" />
    
 </h1>
