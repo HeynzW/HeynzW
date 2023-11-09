@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Monyck!;" />
+<img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F711BB&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Monyck!;" />
 </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynzW&show_icons=true&theme=radical)
@@ -26,5 +26,5 @@
 
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigada+pela+atenção!!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F711BB&width=500&height=70&duration=4000&lines=obrigada+pela+atenção!!;" />
 </h1>
