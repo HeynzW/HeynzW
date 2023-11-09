@@ -1,6 +1,6 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=1000&color=F72CEA&repeat=false&random=true&width=434&lines=Ola+me+chamo+Monyck;"/>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=F72CEA&random=false&width=434&lines=Web+Developer;Web+Designer;"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=F72CEA&repeat=false&random=true&width=434&lines=Ola+me+chamo+Monyck;"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=F72CEA&random=false&width=434&lines=Web+Developer;Web+Designer;"/>
   <br>
 </h1>
 
@@ -8,8 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynzW&hide_progress=truecompact&theme=radical)
 
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+▫Framework▫️" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️Ferramentas▫️▫️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+▫Framework▫️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️Ferramentas▫️▫️" />
    
 </h1>
 <br>
@@ -24,7 +24,7 @@
 
 
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Social▫️▫️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Social▫️▫️" />
 </h1>
 <br>
  
@@ -37,5 +37,5 @@
 
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=F72CEA&random=false&width=434&lines=Obrigada+pela+aten%C3%A7%C3%A3o+!!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=F72CEA&random=false&width=434&lines=Obrigada+pela+aten%C3%A7%C3%A3o+!!;" />
 </h1>
