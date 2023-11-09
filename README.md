@@ -1,6 +1,7 @@
-![](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=F72CEA&repeat=false&random=true&width=434&lines=Ola+me+chamo+Monyck+👋)
-![](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=F72CEA&random=false&width=434&lines=Web+Developer;Web+Designer)
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=30&pause=1000&color=F72CEA&repeat=false&random=true&width=434&lines=Ola+me+chamo+Monyck+👋;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=25&pause=1000&color=F72CEA&random=false&width=434&lines=Web+Developer;Web+Designer;" />
+</h1>
 <hr>
 
 ![Heynz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynzW&rank_icon=github&title_color=F72CEAFF&text_color=000000&border_color=00F0FF&bg_color=20,7CF7FF,FF6AA9&locale=pt-br)
@@ -31,6 +32,6 @@
 </div>
 
 <hr>
-
-![](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=F72CEA&random=false&width=434&lines=Obrigada+pela+aten%C3%A7%C3%A3o+!!)
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=25&pause=1000&color=F72CEA&random=false&width=434&lines=Obrigada+pela+aten%C3%A7%C3%A3o+!!;" />
+</h1>
