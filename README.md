@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynzW&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynzW&hide_progress=truecompact&theme=radical)
 
-<h1>
+<h1 align+"center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+▫Framework▫️" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️Ferramentas▫️▫️" />
    
@@ -23,12 +23,12 @@
 </div>
 
 
-<h1 align="center">
+<h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Social▫️▫️" />
 </h1>
 <br>
  
-<div align="center" > 
+<div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
