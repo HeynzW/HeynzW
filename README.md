@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeynzW&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynzW&hide_progress=truecompact&theme=radical)
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >♖ Linguagens-Frameworks-Ferramentas ♖</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -14,7 +14,7 @@
   
 </div>
   
-  ## Social
+  ## ✧ Social
  
 <div align="center" > 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
