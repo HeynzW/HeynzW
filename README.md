@@ -23,7 +23,7 @@
 </div>
 
 
-<h1>
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Social▫️▫️" />
 </h1>
 <br>
