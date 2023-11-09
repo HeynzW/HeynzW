@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=F72CEA&repeat=false&random=true&width=434&lines=Ola+me+chamo+Monyck;"/>
    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=F72CEA&random=false&width=434&lines=Web+Developer;Web+Designer;"/>
   <br>
