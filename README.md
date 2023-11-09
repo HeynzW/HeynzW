@@ -12,7 +12,7 @@
 <div align="center"> 
   
 <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+Framework;" /> 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&right=0&repeat=false&random=false&width=434&lines=Ferramentas▫️▫️;" />  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&float=right&repeat=false&random=false&width=434&lines=Ferramentas▫️▫️;" />  
 </div>
 
 <hr>
