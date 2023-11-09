@@ -8,8 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeynzW&hide_progress=truecompact&theme=radical)
 
 <h1 align+"center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+▫Framework▫️" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️Ferramentas▫️▫️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=▫️▫️Linguagem+Framework" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&pause=1000&color=F72CEA&repeat=false&random=false&width=434&lines=Ferramentas▫️▫️" />
    
 </h1>
 <br>
